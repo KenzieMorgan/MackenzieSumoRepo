@@ -1,0 +1,28 @@
+Version1
+When working on Version1 of the game it was just programming in the character controls and 
+tweaking them to feel more natural whilst playing the game
+
+Version2
+Working on Version2 the ai was created to chase after the player and adding the ability to 
+bounce off of the player pushing both the player and enemy back
+
+Version3
+A PowerUp was added which has a timer attached to it making it last a limited time
+off the platform
+
+Version4
+Added enemy spawns that increase in scale, during this the PowerUp was adjusted to 7 seconds
+in order to make it last long enough to knock enemies off easily earlier on but becomes harder
+to do as the game progresses
+
+Version5
+Added SFX and BGM in order to increase immersion and added a jump to add more ways to get
+arround enemies
+
+Version6
+Ballanced audio and increased camera turn speed in order to make the game control easier
+as well as adding a menu with the option to quit the game
+
+Version7
+Jump was tweaked in order to make jumping over enemies more tight making it possible
+to do so however making it risky to do as you may be quickly knocked off the platform
